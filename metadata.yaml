@@ -1,0 +1,30 @@
+_repo: The-Life-and-Public-Services-of-James-A.-GarfieldTwentieth-President-of-the-United-States._34217
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34217-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, E. E. (Emma Elizabeth)
+    alias: Brown, Emma Elizabeth
+    birthdate: 1847
+    gutenberg_agent_id: '36881'
+    url: http://www.gutenberg.org/2009/agents/36881
+description: ''
+gutenberg_issued: '2010-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Garfield, James A. (James Abram), 1831-1881'
+title: "The Life and Public Services of James A. Garfield\r\nTwentieth President of\
+  \ the United States, Including Full and Accurate Details of His Eventful Administration,\
+  \ Assassination, Last Hours, Death, Etc., Together with Notable Extracts from His\
+  \ Speeches and Letters"
+url: http://www.gutenberg.org/ebooks/34217
